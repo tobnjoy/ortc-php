@@ -1,5 +1,5 @@
 {
-    "name": "nikapps/ortc-php",
+    "name": "tobnjoy/ortc-php",
     "description": "A PHP API wrapper for ORTC (Realtime pub/sub framework from RealTime.co)",
     "keywords": [
         "RealTime",
